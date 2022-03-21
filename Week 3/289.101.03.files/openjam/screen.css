@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand:400,700');
+body{
+    background-color: #82DDB5;
+background-image: url('img/illustration.gif'), url('img/texture.jpg');
+background-position: center 280px, left top;
+background-repeat: no-repeat, repeat-x;
+background-size: 800px, auto;
+font-family: 'Quicksand', sans-serif;
+margin: 0;
+    
+}
+#nav{
+  background-color: 
+      #67bb99;
+    text-align: center;
+    color: #ffffff;
+    padding: 15px;
+    border-bottom: 2px
+        dashed #000;
+    font-weight: 700;
+    word-spacing: 20px;
+    padding-bottom: 20px;
+}
+
+#header{
+    padding: 50px;
+    text-align: center;
+    background-image: url("img/illustration.gif")
+        , url("img/texture.jpg");
+    height: 650px;
+    background-size: cover, 100px;
+    
+    background-position: top;
+       
+    
+}
+
+ #description, #date{
+width: 300px;
+     max-width: 220px;
+    
+}
+
+.register_btn {
+    background-color: #E43;
+border: 2px dashed #A43;
+border-radius: 2em;
+color: #FFF;
+cursor: pointer;
+display: inline-block;
+font-weight: bold;
+margin-top: 25px;
+padding: 15px 30px;
+}
+
+#logo{
+    max-width: 360px;
+  width: 500px;  
+}
+
+
+#what{
+    background-color:
+        #c7eedd;
+    text-align: center;
+    color: 
+        #387a8a;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    }
+    
+}
+
+#sponsor_logos{
+ 
+    
+}
+
+#why{
+    background-color: 
+        #b6ead3;
+    text-align: center;
+    color: 
+        #387a8a;
+   
+    }
+        
+
+
+#where{
+    
+}
+
+#when{
+    
+}
+
+#who{
+    
+}
+
+#footer{
+    
+}
